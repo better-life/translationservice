@@ -20,7 +20,8 @@ var app = angular.module('myApp', ['pascalprecht.translate']);
 --
 
 2. Include translationLoader.js to your project
-
+--
+--
 3. Modify your app.js of config of your module to use translation service where 'ar' is the language code 
 --
   ```bash
@@ -32,7 +33,6 @@ var app = angular.module('myApp', ['pascalprecht.translate']);
   ```
 --
 4. Modify your html to use translate service 
-
 --
   Method 1 using filter
   ```
