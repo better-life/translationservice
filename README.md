@@ -51,5 +51,9 @@ var app = angular.module('myApp', ['pascalprecht.translate']);
   
   ```
 --
+5. Note
+--
+change the url in translationLoader.js to your translation api
+--
 Check http://angular-translate.github.io/docs/#/guide/06_variable-replacement
 for more options and detailed info
